@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(name='libcoolemail',
-      version='0.0.1',
+      version='v0.1.0',
       author="NuoBiT Solutions, S.L., Eric Antones",
       author_email='eantones@nuobit.com',
       package_dir={'libcoolemail': 'src'},
